@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Project specific stuff
+.floydignore
+.ipynb_checkpoints/
+cifar-10-batches-py/
+*.gz
+checkpoint
+*.data-*
+*.p
+
 # Distribution / packaging
 .Python
 env/
