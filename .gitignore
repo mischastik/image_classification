@@ -14,6 +14,8 @@ cifar-10-batches-py/
 checkpoint
 *.data-*
 *.p
+*.index
+*.meta
 
 # Distribution / packaging
 .Python
