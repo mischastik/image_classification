@@ -16,6 +16,7 @@ checkpoint
 *.p
 *.index
 *.meta
+.idea/
 
 # Distribution / packaging
 .Python
